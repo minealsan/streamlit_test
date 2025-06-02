@@ -87,3 +87,5 @@ with tab3:
             file_name="filtered_global_development_data.csv",
             mime="text/csv",
         )
+
+# task 3: deployment: deploy the app on streamlit cloud (see readme: create own github repo with practical.py file and requirements.txt, connect the github to streamlit cloud)
